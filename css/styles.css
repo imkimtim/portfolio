@@ -262,8 +262,8 @@ footer {
 
 #lead {
     position: relative;
-    height: 100vh;
-    min-height: 500px;
+    height: 60vh;
+    min-height: 400px;
     background: #217dbb;
     overflow: hidden;
     display: flex;
