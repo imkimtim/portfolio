@@ -291,7 +291,7 @@ footer {
 #lead-content h1 {
     color: #fff;
     font-weight: 900;
-    font-size: clamp(2em, 5vw, 5em);
+    font-size: clamp(1.5em, 3vw, 3.5em);
     text-transform: uppercase;
     letter-spacing: 0.05em;
     line-height: 0.9em;
