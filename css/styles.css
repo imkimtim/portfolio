@@ -838,7 +838,7 @@ footer {
 @media only screen and (max-width: 992px) {
     #lead {
         height: auto;
-        min-height: 100vh;
+        min-height: 0vh;
         padding: 100px 15px 60px;
     }
 
