@@ -269,8 +269,8 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 55px;
     box-sizing: border-box;
-    padding-top: 50px;   /* header 공간 확보 */
 }
 
 #lead-content {
@@ -282,7 +282,7 @@ footer {
     align-items: center;
     justify-content: center;
     width: 100%;
-    padding: 60px 20px;  /* 위쪽에 header 높이만큼 패딩 추가 */
+    padding: 0 20px;
 }
 
 #lead-content h1,
@@ -839,7 +839,7 @@ footer {
     #lead {
         height: auto;
         min-height: 100vh;
-        padding: 100px 15px;
+        padding: 100px 15px 60px;
     }
 
     #lead-content {
