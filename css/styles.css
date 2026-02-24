@@ -265,7 +265,7 @@ footer {
 
 #lead {
     position: relative;
-    background: #217dbb;
+   /* background: #217dbb;*/
     overflow: hidden;
     display: flex;
     align-items: center;
@@ -335,7 +335,7 @@ footer {
     right: 0;
     bottom: 0;
     left: 0;
-    background: rgba(33, 125, 187, 0.8);
+    background: rgba(33, 125, 187, 0.5);  /* 0.8 → 0.5 로 낮춰보기 */
     z-index: 1;
 }
 
