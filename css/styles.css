@@ -339,6 +339,18 @@ footer {
     z-index: 1;
 }
 
+#lead-bg-image {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-image: url('images/background.jpg');
+    background-size: cover;
+    background-position: center;
+    z-index: 0;
+}
+
 #lead-down {
     position: absolute;
     left: 0;
