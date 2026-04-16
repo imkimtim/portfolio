@@ -626,47 +626,6 @@ footer {
 }
 
 
-/* =============================================
-   PUBLICATIONS
-   ============================================= */
-
-<div id="publications" class="optional-section background-alt">
-  <h2 class="heading">Publications</h2>
-
-  <div style="max-width:900px; margin:0 auto; padding:0 15px;">
-
-    <!-- 논문 하나 -->
-    <div style="display:flex; gap:16px; align-items:flex-start; 
-                padding:16px 0; border-bottom:1px solid #dcd9d9;">
-      <img src="https://여기에_이미지_URL_붙여넣기.jpg"
-           style="width:100px; height:75px; object-fit:cover; 
-                  border-radius:4px; flex-shrink:0;">
-      <div>
-        <p style="font-weight:500; color:#374054; margin:0 0 4px;">
-          Lubricant-Infused Polymeric Interfaces: A Stretchable and Anti-Fouling Surface
-        </p>
-        <p style="font-size:13px; color:#74808a; margin:0 0 4px;">
-          T. Kim*, <strong>S. Kim</strong> et al. (2024)
-        </p>
-        <a href="https://advanced.onlinelibrary.wiley.com/cms/asset/6cd95fb0-6f19-4dd1-ad6d-3e7f22020c23/adfm202312740-fig-0001-m.jpg" 
-           style="font-size:13px; color:#3498db;">
-          Advanced Functional Materials
-        </a>
-      </div>
-    </div>
-
-    <!-- 논문 두번째 -->
-    <div style="display:flex; gap:16px; align-items:flex-start; 
-                padding:16px 0; border-bottom:1px solid #dcd9d9;">
-      <img src="https://여기에_이미지_URL.jpg"
-           style="width:100px; height:75px; object-fit:cover; 
-                  border-radius:4px; flex-shrink:0;">
-      ...
-    </div>
-
-  </div>
-</div>
-
 
 
 /* =============================================
